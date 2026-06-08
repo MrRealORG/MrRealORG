@@ -4,6 +4,10 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani:wght@600&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ahmad+Raza+%F0%9F%91%8B;Full-stack+Dev+%E2%80%A2+UI%2FUX+Designer;Video+Editor+%E2%80%A2+Founder+of+Team+RealHackers)](https://git.io/typing-svg)
   
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfvju7TZv/giphy.gif" width="400" alt="coding gif"/>
+
 </div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=MrRealORG&label=Profile%20views&color=FF6B6B&style=for-the-badge&labelColor=0D1117" alt="visitor badge"/>
@@ -12,7 +16,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@TeamRealHackers" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor white"/>
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/real-mrhacker-a23b643ab/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,6 +37,10 @@
 - 🎮 **Experience:** Minecraft client dev (PK Launcher), server hosting, custom client development  
 - 🎥 **Content:** Technical tutorials, Minecraft mods, dev workflows  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtuRd DadFLJW/giphy.gif" width="300" alt="hacking gif"/>
+</div>
+
 ---
 
 ### 🛠 Tech Stack
@@ -48,6 +56,10 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzg9RUHkWMz/giphy.gif" width="350" alt="developer gif"/>
+</div>
 
 ---
 
@@ -105,6 +117,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRealORG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="top langs" height="165"/>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50FtcP5pDfV2/giphy.gif" width="250" alt="success gif"/>
+</div>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -139,6 +155,10 @@
   
   ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=MrRealORG&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
   
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9yFrc1U/giphy.gif" width="300" alt="thank you gif"/>
 </div>
 
 ---
