@@ -2,27 +2,31 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani:wght=600&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ahmad+Raza+%F0%9F%91%8B;Full-stack+Dev+%E2%80%A2+UI%2FUX+Designer;Video+Editor+%E2%80%A2+Founder+of+Team+RealHackers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani:wght=600&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ahmad+Raza+%F0%9F%91%8B;Full-stack+Dev+%E2%80%A2+UI%2FUX+Designer;Video+Editor+%E2%80%A2+16+y.o)](https://git.io/typing-svg)
   
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfvju7TZv/giphy.gif" width="400" alt="coding gif"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfvju7TZv/giphy.gif" width="380" alt="coding"/>
 
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=MrRealORG&label=Profile%20views&color=FF6B6B&style=for-the-badge&labelColor=0D1117" alt="visitor badge"/>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrRealORG&label=Profile%20views&color=FF6B6B&style=for-the-badge&labelColor=0D1117" alt="visitor badge"/>
+</div>
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@TeamRealHackers" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/real-mrhacker-a23b643ab/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/UR4zH8EMDv" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -37,28 +41,31 @@
 - 🎮 **Experience:** Minecraft client dev (PK Launcher), server hosting, custom client development  
 - 🎥 **Content:** Technical tutorials, Minecraft mods, dev workflows  
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtuRdadFLJW/giphy.gif" width="300" alt="hacking gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtuRdadFLJW/giphy.gif" width="280" alt="hacking"/>
 </div>
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzg9RUHkWMz/giphy.gif" width="350" alt="developer gif"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzg9RUHkWMz/giphy.gif" width="320" alt="developer"/>
 </div>
 
 ---
@@ -70,36 +77,36 @@
 <td width="50%">
 <h3 align="center">🎬 Aut0max</h3>
 <p align="center">Video automation suite for workflows</p>
-<p align="center"><strong>Stack:</strong> TypeScript, React, Node.js</p>
+<p align="center"><b>Stack:</b> TypeScript, React, Node.js</p>
 </td>
 <td width="50%">
 <h3 align="center">🚀 NDEX</h3>
 <p align="center">Next-gen tech platform</p>
-<p align="center"><strong>Stack:</strong> TypeScript, React</p>
+<p align="center"><b>Stack:</b> TypeScript, React</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3 align="center">🎮 H4Forro</h3>
 <p align="center">Game/UI project</p>
-<p align="center"><strong>Stack:</strong> TypeScript</p>
+<p align="center"><b>Stack:</b> TypeScript</p>
 </td>
 <td width="50%">
 <h3 align="center">⛏️ PK Launcher</h3>
 <p align="center">Custom Minecraft client launcher</p>
-<p align="center"><strong>Stack:</strong> Java, TypeScript</p>
+<p align="center"><b>Stack:</b> Java, TypeScript</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3 align="center">🎨 RealHackers Studio</h3>
 <p align="center">Website for RealHackers community</p>
-<p align="center"><strong>Stack:</strong> TypeScript</p>
+<p align="center"><b>Stack:</b> TypeScript</p>
 </td>
 <td width="50%">
 <h3 align="center">🖥️ Table OS 10</h3>
 <p align="center">Table OS fork</p>
-<p align="center"><strong>Stack:</strong> TypeScript</p>
+<p align="center"><b>Stack:</b> TypeScript</p>
 </td>
 </tr>
 </table>
@@ -109,16 +116,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRealORG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="MrRealORG stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRealORG&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currLabel=FF6B6B" alt="streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRealORG&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRealORG&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currLabel=FF6B6B" alt="streak" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRealORG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="top langs" height="165"/>
 </p>
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50FtcP5pDfV2/giphy.gif" width="250" alt="success gif"/>
+  <img src="https://media.giphy.com/media/xT9IgG50FtcP5pDfV2/giphy.gif" width="230" alt="success"/>
 </div>
 
 ---
@@ -133,9 +142,9 @@
 
 ### 🎖️ Achievements
 
-<p align="left">
+<p align="center">
   <img src="https://github.blog/wp-content/uploads/2023/01/pull-shark-default.png?w=96" alt="Pull Shark" title="Pull Shark — Merged PRs in public repos" width="50"/>
-  <img src="https://github.blog/wp-content/uploads/2023/01/quickdraw-default.png?w=96" alt="Quickdraw" title="Quickdraw — Closed issue within 60s of opening" width="50"/>
+  <img src="https://github.blog/wp-content/uploads/2023/01/quickdraw-default.png?w=96" alt="Quickdraw" title="Quickdraw — Closed issue within 60s" width="50"/>
   <img src="https://github.blog/wp-content/uploads/2022/05/yolo-default.png?w=96" alt="YOLO" title="YOLO — Merged PR without review" width="50"/>
 </p>
 
@@ -151,16 +160,8 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MrRealORG/MrRealORG/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9yFrc1U/giphy.gif" width="300" alt="thank you gif"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9yFrc1U/giphy.gif" width="280" alt="thank you"/>
 </div>
 
 ---
