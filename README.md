@@ -137,7 +137,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/MrRealORG/MrRealORG/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=MrRealORG&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
   
 </div>
 
