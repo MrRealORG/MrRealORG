@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani:wght@600&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ahmad+Raza+%F0%9F%91%8B;Full-stack+Dev+%E2%80%A2+UI%2FUX+Designer;Video+Editor+%E2%80%A2+Founder+of+Team+RealHackers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani:wght=600&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ahmad+Raza+%F0%9F%91%8B;Full-stack+Dev+%E2%80%A2+UI%2FUX+Designer;Video+Editor+%E2%80%A2+Founder+of+Team+RealHackers)](https://git.io/typing-svg)
   
 <br>
 
@@ -38,7 +38,7 @@
 - 🎥 **Content:** Technical tutorials, Minecraft mods, dev workflows  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtuRd DadFLJW/giphy.gif" width="300" alt="hacking gif"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtuRdadFLJW/giphy.gif" width="300" alt="hacking gif"/>
 </div>
 
 ---
@@ -151,11 +151,13 @@
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=MrRealORG&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
-  
-</div>
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrRealORG/MrRealORG/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9yFrc1U/giphy.gif" width="300" alt="thank you gif"/>
