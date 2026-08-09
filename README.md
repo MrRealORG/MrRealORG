@@ -3,7 +3,7 @@
 <img src="https://github.com/MrRealORG/MrRealORG/raw/main/gh-header.gif" width="100%">
 
 <br>
-
+https://www.gitskins.com/api/section/wordmark?username=MrRealORG&theme=github-dark&v=sync-intro-4&style=terminal&mode=dark
 <a href="https://github.com/MrRealORG">
   <img src="https://img.shields.io/badge/%40MrRealORG-FFFFFF?style=flat-square&logo=github&logoColor=000&labelColor=000&color=000&link=https%3A%2F%2Fgithub.com%2FMrRealORG">
 </a>
