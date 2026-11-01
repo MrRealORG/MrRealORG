@@ -38,6 +38,8 @@ I build products, experiments, interfaces, tools, and occasionally things that p
 
 Right now I’m especially interested in **AI-powered products, polished web experiences, desktop tools, game development, developer tooling, and high-performance interfaces**.
 
+**Shipping now: [NookNook](https://github.com/MrRealORG/Nook)** — a free, MIT-licensed notes desk for Windows 10/11 that works 100% offline. Local-first SQLite storage, no accounts, no telemetry, changelog moving almost daily at [mrrealorg.github.io/NookNook](https://mrrealorg.github.io/NookNook/). Feedback and issues are welcome.
+
 ---
 
 ## `$ tech --stack`
@@ -80,6 +82,7 @@ Right now I’m especially interested in **AI-powered products, polished web exp
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[NookNook](https://github.com/MrRealORG/Nook)** — **current focus** | Cozy, 100% offline notes desk for Windows: markdown notes, tasks, kanban board, meeting recorder, bring-your-own-key AI chat, all in a ~2 MB Tauri 2 app. Site: [mrrealorg.github.io/NookNook](https://mrrealorg.github.io/NookNook/) | Rust · Tauri 2 · SQLite |
 | **[Quantum Launcher](https://github.com/MrRealORG/quantumlauncher)** | Minecraft launcher / client tooling experiments | TypeScript · Web · Desktop |
 | **[Hermes Agent](https://github.com/MrRealORG/hermes-agent)** | Agent / AI-oriented software experiments | AI · Python · Dev tooling |
 | **[Kanso UI](https://github.com/MrRealORG/Kanso-UI)** | UI / component experimentation | CSS · Frontend |
