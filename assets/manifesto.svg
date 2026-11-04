@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="How I work">
+  <title>How I work</title>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <style>
+      .r { font: 500 18px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; animation: in .5s ease-out both; }
+      @keyframes in { from { opacity: 0 } to { opacity: 1 } }
+      .h { font: 600 13px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; fill: #8E88B0; }
+      .k { font: 800 120px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; fill: #AE81FF; opacity: .09; }
+    </style>
+  </defs>
+  <rect x="1.5" y="1.5" width="1197" height="247" rx="14" fill="#141321" stroke="#2C2547" stroke-width="2"/>
+  <text x="1160" y="214" text-anchor="end" class="k">{RH}</text>
+  <text x="40" y="38" class="h"><tspan fill="#00E5FF">~/realhackers</tspan> $ cat manifesto.md</text>
+  <text x="40" y="82" class="r" style="animation-delay:0.3s"><tspan fill="#FE428E">01</tspan><tspan fill="#2C2547">  │  </tspan><tspan fill="#E8E4FF">Build things you would actually use.</tspan></text><text x="40" y="114" class="r" style="animation-delay:0.6499999999999999s"><tspan fill="#FE428E">02</tspan><tspan fill="#2C2547">  │  </tspan><tspan fill="#E8E4FF">Make the UI feel intentional.</tspan></text><text x="40" y="146" class="r" style="animation-delay:1.0s"><tspan fill="#FE428E">03</tspan><tspan fill="#2C2547">  │  </tspan><tspan fill="#E8E4FF">Keep learning outside the comfort zone.</tspan></text><text x="40" y="178" class="r" style="animation-delay:1.3499999999999999s"><tspan fill="#FE428E">04</tspan><tspan fill="#2C2547">  │  </tspan><tspan fill="#E8E4FF">Prefer shipping over endless planning.</tspan></text><text x="40" y="210" class="r" style="animation-delay:1.7s"><tspan fill="#FE428E">05</tspan><tspan fill="#2C2547">  │  </tspan><tspan fill="#E8E4FF">Break it, understand it, improve it.</tspan></text>
+</svg>

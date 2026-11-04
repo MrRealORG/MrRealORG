@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="GITHUB.STATS">
+  <title>GITHUB.STATS</title>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FE428E"/><stop offset="0.5" stop-color="#AE81FF"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0.1"/>
+    </linearGradient>
+    <style>
+      .n { font: 700 15px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; fill: #FE428E; letter-spacing: 2px; }
+      .t { font: 800 26px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; fill: #E8E4FF; letter-spacing: 3px; }
+      .h { font: 500 14px 'JetBrains Mono','Fira Code','SF Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Liberation Mono',monospace; fill: #8E88B0; }
+      .dot { animation: blink 1.6s ease-in-out infinite; }
+      @keyframes blink { 50% { opacity: .25 } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="62" rx="12" fill="#141321" stroke="#2C2547" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="62" rx="3" fill="#FE428E" filter="url(#glow)"/>
+  <circle class="dot" cx="34" cy="32.0" r="5" fill="#00E5FF" filter="url(#glow)"/>
+  <text x="54" y="38" class="n">04</text>
+  <text x="100" y="41" class="t">GITHUB.STATS</text>
+  <text x="1172" y="38" text-anchor="end" class="h">commits don&#x27;t lie</text>
+  <rect x="100" y="52" width="1060" height="2" fill="url(#ln)" opacity="0.7"/>
+</svg>
