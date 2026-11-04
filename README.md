@@ -1,115 +1,80 @@
+<div align="center">
 
-# Ahmad Raza · `MrRealORG`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=190&section=header&text=Ahmad%20Raza&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Developer%20%C2%B7%20Founder%20of%20Team%20RealHackers&descSize=17&descAlignY=58" width="100%" alt="Ahmad Raza" />
 
-**Full-Stack Developer · UI/UX Designer · Video Editor · Minecraft / Game Developer**
-
-I build products, experiments, interfaces, tools, and occasionally things that probably started as “this would be cool.”
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=14B8A6&center=true&vCenter=true&width=560&lines=Desktop+apps+with+Tauri+%2B+Rust;Websites%2C+logos+%26+YouTube+thumbnails;Video+editing+%26+creative+tooling;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing intro" />
 
 <p>
-  <a href="https://github.com/MrRealORG"><img src="https://img.shields.io/badge/GitHub-MrRealORG-111?style=for-the-badge&logo=github&logoColor=78ff9c" alt="GitHub" /></a>
-  <a href="https://github.com/MrRealORG?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse-111?style=for-the-badge&logo=github&logoColor=78ff9c" alt="Projects" /></a>
+  <a href="https://www.ahmadraza.cv/"><img src="https://img.shields.io/badge/ahmadraza.cv-0d1117?style=for-the-badge&logo=googlechrome&logoColor=14b8a6" alt="ahmadraza.cv" /></a>
+  <a href="http://realhackers.bond/"><img src="https://img.shields.io/badge/Team_RealHackers-0d1117?style=for-the-badge&logo=hackthebox&logoColor=14b8a6" alt="Team RealHackers" /></a>
+  <a href="https://github.com/MrRealORG?tab=achievements"><img src="https://img.shields.io/badge/Achievements-0d1117?style=for-the-badge&logo=github&logoColor=14b8a6" alt="GitHub achievements" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MrRealORG&style=flat-square&color=78ff9c&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MrRealORG&style=flat-square&color=0f766e&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👋 About me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ USER                                                         │
-├──────────────────────────────────────────────────────────────┤
-│ name        : Ahmad Raza                                    │
-│ handle      : MrRealORG                                     │
-│ location    : Faisalabad, Pakistan                          │
-│ role        : Full-Stack Developer                          │
-│ focus       : Web • UI/UX • AI • Games • Creative tooling  │
-│ organization: Team RealHackers                              │
-│ mindset     : Build → Break → Learn → Ship                 │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm **Ahmad Raza**, a developer from **Faisalabad, Pakistan**, and the owner of **[Team RealHackers](http://realhackers.bond/)**, a small studio for **websites, logos, YouTube thumbnails and video editing**.
 
-## `$ ./current-mission`
+I like building fast, lightweight software with interfaces that feel as good as the code behind them: desktop tools, web experiences, games and creative tooling.
 
-> **Build useful software with interfaces that feel as good as the code behind them.**
-
-Right now I’m especially interested in **AI-powered products, polished web experiences, desktop tools, game development, developer tooling, and high-performance interfaces**.
-
-**Shipping now: [NookNook](https://github.com/MrRealORG/Nook)** — a free, MIT-licensed notes desk for Windows 10/11 that works 100% offline. Local-first SQLite storage, no accounts, no telemetry, changelog moving almost daily at [mrrealorg.github.io/NookNook](https://mrrealorg.github.io/NookNook/). Feedback and issues are welcome.
+- 🛠️ Currently shipping **[Nook](https://nook-web-7cj.pages.dev/)**, a cozy desktop app for Windows
+- 🎨 Running client work at Team RealHackers: web, branding, thumbnails, video
+- 🌐 Portfolio: **[ahmadraza.cv](https://www.ahmadraza.cv/)**
 
 ---
 
-## `$ tech --stack`
+## 🧰 Tech stack
 
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/TypeScript-0b0f0d?style=for-the-badge&logo=typescript&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/JavaScript-0b0f0d?style=for-the-badge&logo=javascript&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Python-0b0f0d?style=for-the-badge&logo=python&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/HTML5-0b0f0d?style=for-the-badge&logo=html5&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/CSS3-0b0f0d?style=for-the-badge&logo=css3&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/SQL-0b0f0d?style=for-the-badge&logo=postgresql&logoColor=78ff9c" />
-</p>
-
-### Web / App Development
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0b0f0d?style=for-the-badge&logo=nextdotjs&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/React-0b0f0d?style=for-the-badge&logo=react&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0b0f0d?style=for-the-badge&logo=tailwindcss&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Three.js-0b0f0d?style=for-the-badge&logo=threedotjs&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Tauri-0b0f0d?style=for-the-badge&logo=tauri&logoColor=78ff9c" />
-</p>
-
-### Tools / Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-0b0f0d?style=for-the-badge&logo=git&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/GitHub-0b0f0d?style=for-the-badge&logo=github&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Firebase-0b0f0d?style=for-the-badge&logo=firebase&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Supabase-0b0f0d?style=for-the-badge&logo=supabase&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/Docker-0b0f0d?style=for-the-badge&logo=docker&logoColor=78ff9c" />
-<img src="https://img.shields.io/badge/VS_Code-0b0f0d?style=for-the-badge&logo=visualstudiocode&logoColor=78ff9c" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,python,html,css,react,tailwind,vite,tauri&perline=10" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,cloudflare,git,github,vscode&perline=10" alt="Tools and platforms" />
 </p>
 
 ---
 
-## `$ ls ~/featured`
+## 🚀 Featured projects
 
-| Project | What it is | Stack |
+| Project | What it is | Links |
 |---|---|---|
-| **[NookNook](https://github.com/MrRealORG/Nook)** — **current focus** | Cozy, 100% offline notes desk for Windows: markdown notes, tasks, kanban board, meeting recorder, bring-your-own-key AI chat, all in a ~2 MB Tauri 2 app. Site: [mrrealorg.github.io/NookNook](https://mrrealorg.github.io/NookNook/) | Rust · Tauri 2 · SQLite |
-| **[Quantum Launcher](https://github.com/MrRealORG/quantumlauncher)** | Minecraft launcher / client tooling experiments | TypeScript · Web · Desktop |
-| **[Hermes Agent](https://github.com/MrRealORG/hermes-agent)** | Agent / AI-oriented software experiments | AI · Python · Dev tooling |
-| **[Kanso UI](https://github.com/MrRealORG/Kanso-UI)** | UI / component experimentation | CSS · Frontend |
-| **[EaseMotion CSS](https://github.com/MrRealORG/EaseMotion-css)** | Motion / easing focused frontend work | CSS · Web |
-| **[GTA-REAL](https://github.com/MrRealORG/GTA-REAL)** | Browser/game experimentation | Web · Game Dev |
-| **[Tide Island Windows](https://github.com/MrRealORG/Tide-island-Windows)** | Desktop interface experimentation | Windows · UI |
+| 🐱 **Nook** · *current focus* | A cozy desktop app for Windows: notes, tasks, a desktop pet, voice dictation, cloud sync and focus music. Built with Tauri + Rust. | [**Download**](https://github.com/MrRealORG/nook-releases/releases/latest) · [Website](https://nook-web-7cj.pages.dev/) |
+| ⚡ **PK Launcher** | A Minecraft launcher (Tauri v2 + Rust) with a Theme Store of one-click `.pktheme` packs: colours, wallpapers, animated video backgrounds and music. | [Theme Store](https://github.com/MrRealORG/pk-themes) |
+| 🎧 **Wispify** | Zero-lag music player + voice agent in a native glass widget. Hotkey-to-play, slowed + reverb DSP, built for low-spec PCs. Tauri + Rust. | *In development* |
+| 🎬 **CineCode Studio** | A code-made film engine for animated "what if" series and short films: multi-location scenes, camera moves, lighting looks and local text-to-speech voices. | *In development* |
+| 🧩 **[Free UI](https://github.com/MrRealORG/free-ui)** | Free, MIT-licensed UI templates with full source code. React 19 + TypeScript + Tailwind 4 + Vite. | [Live demo](https://mrrealorg.github.io/free-ui/) |
+| ● **[DotNote](https://github.com/MrRealORG/dotnote)** | Minimal mono, local-first notes app for Windows with channels, voice and AI. Rust + Tauri v2. | [Repo](https://github.com/MrRealORG/dotnote) |
+| 🚗 **[GTA Real](https://github.com/MrRealORG/GTA-REAL)** | A 2D GTA-style game written in TypeScript. | [Repo](https://github.com/MrRealORG/GTA-REAL) |
 
-> See everything in the [repositories tab](https://github.com/MrRealORG?tab=repositories).
-
----
-
-## `$ git --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrRealORG&show_icons=true&hide_border=true&bg_color=00000000&title_color=78ff9c&icon_color=78ff9c&text_color=c9d1d9&ring_color=78ff9c&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRealORG&layout=compact&hide_border=true&bg_color=00000000&title_color=78ff9c&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=MrRealORG&theme=transparent&hide_border=true&ring=78ff9c&fire=78ff9c&currStreakLabel=78ff9c&sideLabels=c9d1d9&dates=7d8590" alt="GitHub streak" />
-</div>
+<sub>More in the <a href="https://github.com/MrRealORG?tab=repositories">repositories tab</a>.</sub>
 
 ---
 
-## `$ cat philosophy.txt`
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrRealORG&theme=github_dark" width="100%" alt="Profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRealORG&theme=github_dark" height="170" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrRealORG&theme=github_dark" height="170" alt="Top languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrRealORG&theme=github_dark" height="170" alt="Top languages by commit" />
+
+<img src="https://streak-stats.demolab.com?user=MrRealORG&theme=github-dark-blue&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" alt="GitHub streak" />
+
+<br/>
+
+<a href="https://github.com/MrRealORG?tab=achievements"><img src="https://img.shields.io/badge/🏆_See_my_GitHub_achievements-0d1117?style=for-the-badge" alt="GitHub achievements" /></a>
+
+</div>
+
+---
+
+## 💭 How I work
 
 ```text
 01  Build things you would actually use.
@@ -121,43 +86,16 @@ Right now I’m especially interested in **AI-powered products, polished web exp
 
 ---
 
-## `$ uptime`
-
-```text
-[████████████████████████████████████████]  online
-
-focus        : AI + software + creative tooling
-status       : building
-next         : ship something people remember
-availability : open to interesting ideas
-```
-
----
-
-## `$ connect`
+## 📫 Get in touch
 
 <div align="center">
 
-<a href="https://github.com/MrRealORG"><img src="https://img.shields.io/badge/GitHub-MrRealORG-111?style=for-the-badge&logo=github&logoColor=78ff9c" /></a>
+<a href="https://www.ahmadraza.cv/"><img src="https://img.shields.io/badge/Portfolio-ahmadraza.cv-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="http://realhackers.bond/"><img src="https://img.shields.io/badge/Studio-realhackers.bond-0f766e?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Team RealHackers" /></a>
+<a href="https://github.com/MrRealORG"><img src="https://img.shields.io/badge/GitHub-MrRealORG-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
+**Got a website, logo, thumbnail or video to make? Let's build it.**
 
-**Got an interesting project, weird idea, or ambitious build?**  
-**Let's make it real.**
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────╮
-│  $ echo "Thanks for visiting my profile :)"  │
-╰──────────────────────────────────────────────╯
-```
-
-<sub>Designed in terminal mode. Built in public.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f766e&height=110&section=footer" width="100%" alt="" />
 
 </div>
-
